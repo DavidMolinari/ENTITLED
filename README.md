@@ -17,6 +17,8 @@ Saurez vous y arriver ?
 ## CONCEPT / ANGLE ET POINT DE VUE
 > *Orientation qu'on souhaite donner au projet*
 
+![](https://i.imgur.com/9fjCsie.gif)
+
 - Contrôle de l'esprit
 - Puppet / Marionnette
 - Expériences visuelles
