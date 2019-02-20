@@ -22,6 +22,12 @@ Saurez vous y arriver ?
 - Expériences visuelles
 - Visual wind 
 
+
+### Keywords 
+
+Immersion experience emotion découverte illusoire vorace plaisir coloré chromatique exotisme sens exorbitant innovant réalité virtuelle imagination paranoia voyage pèlerinage frémissant frisson phase technologie vision mirage illusion chimère alice univers dimension silent hill 
+
+
 Le bût est de sortir d'un endroit qui t'empêche d'en sortir, la sortie est visible mais accessible que si le public de t'aider.
 
 
@@ -30,4 +36,26 @@ The sinister truth du project mk ultra
 ![](https://images-na.ssl-images-amazon.com/images/I/51QCJM-zIYL._SX325_BO1,204,203,200_.jpg)
 
 Manipulation de l'esprit par des expériences 
+
+
+
+
+
+
+
+
+
+
+
+## Unity assets resources
+RESSOURCES ASSET Unity: 
+> https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-4-85675
+> https://assetstore.unity.com/packages/tools/terrain/gaia-42618
+> https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256
+> https://assetstore.unity.com/packages/3d/characters/creatures/heroic-fantasy-creatures-full-pack-volume-1-5730
+> https://assetstore.unity.com/packages/templates/systems/ummorpg-51212
+> https://assetstore.unity.com/packages/tools/visual-scripting/flowcanvas-33903
+> https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943
+> https://assetstore.unity.com/packages/tools/gui/inventory-pro-66801
+
 
