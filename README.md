@@ -23,6 +23,60 @@ Saurez vous y arriver ?
 - Visual wind 
 
 
+
+
+## CIBLES 
+> *A qui on s'addresse*
+
+### PERSONAS 
+  
+   ![](http://www.iconninja.com/files/837/326/356/user-young-male-avatar-person-man-icon.png)
+   
+    - Sam, étudiant en droit
+      - Informations de base :
+          - Age : 20 ans
+          - Situation familiale : Célibataire, sans enfant
+          - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza, courses de voitures
+          - vit en France dans une zone résidentielle
+          - Traits de caractère : Accent du sud
+          - Relation à la technologie : 10/10 => Addicted
+          - Il porte des adidas Vegan parce que c'est à la mode
+      - Objectifs :
+          - Augmenter ses likes sur Instagram
+          - Augmenter ses relations sur LinkedIn
+          - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
+          - Trouver une copine sur Meetic
+          - Découverte du projet :
+            - Trailer en publicité sur Instagram
+      - FREINS
+        - Epileptique 
+        - Trop sensible
+
+
+   ![](http://bb-bau.com/images/avatar.png)
+   
+    - Virginie, manager dans une start-up
+      - Informations de base :
+        - Age : 28 ans
+        - Situation familiale : Célibataire, sans enfant
+        - Centres d'interêt : Réseaux sociaux, Design, Relations sociales
+        - Vit en France dans une collocation
+        - Traits de caractère : Inquiète du regard des gens
+        - Relation à la technologie : 9/10 Très accroc
+        - Aime la mode, prendre ses plats en photos
+      - Objectifs :
+        - Devenir une influenceuse sur Instagram
+        - Soigner son image numérique au maximum 
+        - Trouver un compagnon sur AdopteUnMec
+      - Découverte du projet :
+        - Trailer en publicité sur Instagram
+      - FREINS
+        - Trop sensible
+        - Fragile
+        
+        
+        
+
 ### Keywords 
 
 Immersion experience emotion découverte illusoire vorace plaisir coloré chromatique exotisme sens exorbitant innovant réalité virtuelle imagination paranoia voyage pèlerinage frémissant frisson phase technologie vision mirage illusion chimère alice univers dimension silent hill 
