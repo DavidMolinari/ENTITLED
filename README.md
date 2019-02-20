@@ -114,13 +114,18 @@ Manipulation de l'esprit par des expériences
 ## EN VRAC
 
 
-MIND CONTROL PRIVATE CLUB
-MIND CONTROL SOCIAL EXPERIMENT
+- MIND CONTROL PRIVATE CLUB
 
-
-
+- MIND CONTROL SOCIAL EXPERIMENT
 
 ![](https://i.imgur.com/cUK22Zm.gif) 
+
+
+
+Lieu d'expériences, de rencontre, de découvertes 
+
+Un délire à la "Freak Show" dans l'idée de quelque chose jouant avec la phantasmagorie et le contrôl de l'esprit
+
 
 
 ## Unity assets resources
