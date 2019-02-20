@@ -105,17 +105,9 @@ Manipulation de l'esprit par des expériences
 
 
 
-
-
-
-
 ## EXAMPLE SCENE
 
-
-
-
-
-
+[MIND CONTROLTHEORY EXPERIMENT]
 
 
 
