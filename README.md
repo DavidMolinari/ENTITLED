@@ -111,6 +111,18 @@ Manipulation de l'esprit par des expériences
 
 
 
+## EN VRAC
+
+
+MIND CONTROL PRIVATE CLUB
+MIND CONTROL SOCIAL EXPERIMENT
+
+
+
+
+![](https://i.imgur.com/cUK22Zm.gif) 
+
+
 ## Unity assets resources
 RESSOURCES ASSET Unity: 
 > https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-4-85675
