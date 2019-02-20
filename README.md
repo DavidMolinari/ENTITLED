@@ -110,6 +110,7 @@ Manipulation de l'esprit par des expériences
 
 [MIND CONTROLTHEORY EXPERIMENT]
 
+![](https://i.imgur.com/dsbu2Xi.gif)
 
 
 ## EN VRAC
