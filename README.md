@@ -26,6 +26,15 @@ Saurez vous y arriver ?
 ![](https://i.imgur.com/uaN8qH0.gif)
 
 
+---
+
+
+### Influences : 
+Clip Muse 
+
+![](https://66.media.tumblr.com/a01ce694d79c0c1db037433bd89c183b/tumblr_oq5ooqMRt61u75okmo7_500.gif)
+
+
 ## CIBLES 
 > *A qui on s'addresse*
 
