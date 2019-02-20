@@ -140,6 +140,20 @@ Le Manoir du T est parfait pour ça, leur crédo
 est à exploiter
 - On joue sur les émotions, la consciences, l'enrichissement culturel et technologique
 
+- 5S CLUB
+
+ Incendie qui se déclenche sur une piece a coté
+ tout le monde s'en bat les couilles
+ 2 pieces supplémentaires pour les lvl interactions
+ 
+ - Feelings interaction !!!
+ - Normal => Suit la trame principale => 
+ - Selfish => Guilt, se libére rapidement de la conversation, sort avec tout le monde 
+ - Empathique => Perdre du temps, perdre le round
+
+ 
+ 
+
 
 ## Unity assets resources
 RESSOURCES ASSET Unity: 
