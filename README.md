@@ -6,11 +6,12 @@
 
 Un univers parralèle où le héro principal est contrôlé par la téchnologie, RUN
 
+Un univers parallèle en réalité virtuelle de contrôle et de manipulation d'esprit, on incarnage un personnage enigmatique qui réalise des expériences sur des sujets pour le moins .. intrigants.
 ## PITCH
 
 ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQBrHjJ7ByLZQD-8v30cE0mbxQFnpMQr0jzMIOBsrYUetc1wwYh)
 
-Plongez au coeur d’un univers parallèle dont vous êtes le héro
+Plongez au coeur d’un univers parallèle dont vous êtes le héro.
 Soyez vous-même, ne vous laissez pas influencer par ce qui gravite autour de vous, ni par les obstacles provoqués par votre entourage. Évadez vous d’une dimension fantasmagorique n’étant que le mirage d’un univers que vous ne contrôlez pas
 Saurez vous y arriver ? 
 
@@ -23,7 +24,6 @@ Saurez vous y arriver ?
 - Contrôle de l'esprit
 - Puppet / Marionnette
 - Expériences visuelles
-- Visual wind 
 
 
 ![](https://i.imgur.com/uaN8qH0.gif)
@@ -34,8 +34,9 @@ Saurez vous y arriver ?
 
 ### Influences : 
 Clip Muse 
-
 ![](https://66.media.tumblr.com/a01ce694d79c0c1db037433bd89c183b/tumblr_oq5ooqMRt61u75okmo7_500.gif)
+Black Mirror
+Orange Mécanique
 
 
 ## CIBLES 
