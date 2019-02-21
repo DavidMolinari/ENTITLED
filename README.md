@@ -45,9 +45,13 @@ Saurez vous y arriver ?
 
 ### Influences : 
 Clip Muse 
+
 ![](https://66.media.tumblr.com/a01ce694d79c0c1db037433bd89c183b/tumblr_oq5ooqMRt61u75okmo7_500.gif)
+
 Black Mirror
 Orange Mécanique
+
+
 
 
 ## CIBLES 
