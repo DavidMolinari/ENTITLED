@@ -185,23 +185,4 @@ Nous correspond parfaitement, la représentation d'un certain groupe d'individus
  
 
 
-## Unity assets resources
-RESSOURCES ASSET Unity: 
-> https://assetstore.unity.com/packages/vfx/particles/spells/realistic-effects-pack-4-85675
-
-> https://assetstore.unity.com/packages/tools/terrain/gaia-42618
-
-> https://assetstore.unity.com/packages/audio/sound-fx/universal-sound-fx-17256
-
-> https://assetstore.unity.com/packages/3d/characters/creatures/heroic-fantasy-creatures-full-pack-volume-1-5730
-
-> https://assetstore.unity.com/packages/templates/systems/ummorpg-51212
-
-> https://assetstore.unity.com/packages/tools/visual-scripting/flowcanvas-33903
-
-> https://assetstore.unity.com/packages/templates/systems/ufps-ultimate-fps-2943
-
-> https://assetstore.unity.com/packages/tools/gui/inventory-pro-66801
-
-
 
