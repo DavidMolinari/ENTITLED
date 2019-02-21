@@ -4,8 +4,6 @@
 
 ## NOTE D'INTENTION
 
-Un univers parralèle où le héro principal est contrôlé par la téchnologie, RUN
-
 Un univers parallèle en réalité virtuelle de contrôle et de manipulation d'esprit, on incarnage un personnage enigmatique qui réalise des expériences sur des sujets pour le moins .. intrigants.
 ## PITCH
 
@@ -152,6 +150,11 @@ est à exploiter
  - Selfish => Guilt, se libére rapidement de la conversation, sort avec tout le monde 
  - Empathique => Perdre du temps, perdre le round
 
+ 
+ 
+ Trame de démo : 
+ La scène principale est une sombre salle avec panel de contrôle et un bouton d'action, une simple interaction avec ce dernier et on se trouve plongé dans l'univers en question. 
+ Un Univers abstrait, dans une boite de nuit.
  
  
 
