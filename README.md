@@ -45,6 +45,8 @@ Saurez vous y arriver ?
 ![](./GIF3.gif)
 
 
+![](./GIF4.gif)
+
 
 
 ### Influences : 
@@ -115,14 +117,12 @@ Orange Mécanique
 Immersion experience emotion découverte illusoire vorace plaisir coloré chromatique exotisme sens exorbitant innovant réalité virtuelle imagination paranoia voyage pèlerinage frémissant frisson phase technologie vision mirage illusion chimère alice univers dimension silent hill 
 
 
-Le bût est de sortir d'un endroit qui t'empêche d'en sortir, la sortie est visible mais accessible que si le public de t'aider.
-
 
 The sinister truth du project mk ultra
 
 ![](https://images-na.ssl-images-amazon.com/images/I/51QCJM-zIYL._SX325_BO1,204,203,200_.jpg)
 
-Manipulation de l'esprit par des expériences 
+Manipulation de l'esprit par des expériences
 
 
 
@@ -177,6 +177,10 @@ Nous correspond parfaitement, la représentation d'un certain groupe d'individus
  Trame de démo : 
  La scène principale est une sombre salle avec panel de contrôle et un bouton d'action, une simple interaction avec ce dernier et on se trouve plongé dans l'univers en question. 
  Un Univers abstrait, dans une boite de nuit.
+ Un évènement se déclenche, et plusieurs choix sont proposés, quelle voie choisir ? 
+ Ces evénements sont déclenchés à distances et les posent des questions aux spectateurs autours du principal acteur, les réponses influent sur l'univers. 
+ 
+ ![](![](./GIF4.gif)
  
  
 
