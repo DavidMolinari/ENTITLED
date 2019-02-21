@@ -30,6 +30,19 @@ Saurez vous y arriver ?
 ---
 
 
+### VISUELS
+
+
+# **Forte identité visuelle**
+
+![](./GIF1.gif)
+
+
+
+![](./GIF2.gif)
+
+
+
 ### Influences : 
 Clip Muse 
 ![](https://66.media.tumblr.com/a01ce694d79c0c1db037433bd89c183b/tumblr_oq5ooqMRt61u75okmo7_500.gif)
@@ -136,8 +149,9 @@ Sauf qu'un freak show on est spectateur de "bêtes de foires" exposées qui sont
 
 Le Manoir du T est parfait pour ça, leur crédo 
 > "On travaille l’émotion, la conscience, l’enrichissement, la liberté"
-est à exploiter
-- On joue sur les émotions, la consciences, l'enrichissement culturel et technologique
+Nous correspond parfaitement, la représentation d'un certain groupe d'individus regroupés dans un club privé où ce qu'il se passe dans le club, reste dans le club.
+
+![](https://i.imgur.com/fQ6d4gy.mp4)
 
 - 5S CLUB
 
