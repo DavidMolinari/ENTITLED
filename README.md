@@ -183,6 +183,13 @@ Nous correspond parfaitement, la représentation d'un certain groupe d'individus
  ![](![](./GIF4.gif)
  
  
+ 
+ ---
+ 
+ 
+ ![](https://i.imgur.com/zxXraFM.png)
+ 
+ 
 
 
 
