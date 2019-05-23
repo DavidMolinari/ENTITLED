@@ -74,15 +74,12 @@ Orange Mécanique
           - Centres d'interêt : Réseaux sociaux, jeux vidéos, pizza, courses de voitures
           - vit en France dans une zone résidentielle
           - Traits de caractère : Accent du sud
-          - Relation à la technologie : 10/10 => Addicted
           - Il porte des adidas Vegan parce que c'est à la mode
       - Objectifs :
-          - Augmenter ses likes sur Instagram
           - Augmenter ses relations sur LinkedIn
           - Soigner son image numérique au maximum et se faire connaître dans le milieu des courses automobiles
-          - Trouver une copine sur Meetic
           - Découverte du projet :
-            - Trailer en publicité sur Instagram
+            - Bouche à oreilles
       - FREINS
         - Epileptique 
         - Trop sensible
@@ -97,14 +94,11 @@ Orange Mécanique
         - Centres d'interêt : Réseaux sociaux, Design, Relations sociales
         - Vit en France dans une collocation
         - Traits de caractère : Inquiète du regard des gens
-        - Relation à la technologie : 9/10 Très accroc
         - Aime la mode, prendre ses plats en photos
       - Objectifs :
-        - Devenir une influenceuse sur Instagram
-        - Soigner son image numérique au maximum 
-        - Trouver un compagnon sur AdopteUnMec
+        - Fare évoluer sa start-up
       - Découverte du projet :
-        - Trailer en publicité sur Instagram
+        - Sur un article de jeux vidéos 
       - FREINS
         - Trop sensible
         - Fragile
