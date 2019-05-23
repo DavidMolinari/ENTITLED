@@ -1,7 +1,6 @@
 ## MUREX 
 ![](https://66.media.tumblr.com/15021996d52f315fd9b843f4575cdb27/tumblr_myaffrLO9a1t9gdcmo1_400.gif)
 
-
 ## NOTE D'INTENTION
 
 Un univers parallèle en réalité virtuelle de contrôle et de manipulation d'esprit, on incarnage un personnage enigmatique qui réalise des expériences sur des sujets pour le moins .. intrigants.
@@ -41,9 +40,7 @@ Saurez vous y arriver ?
 
 ![](./GIF2.gif)
 
-
 ![](./GIF3.gif)
-
 
 ![](./GIF4.gif)
 
